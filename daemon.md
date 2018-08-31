@@ -1,6 +1,7 @@
 ## 判断是否后台运行
 
 ```python
+import errno
 import io
 import os
 import sys
